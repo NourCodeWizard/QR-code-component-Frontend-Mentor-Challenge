@@ -13,14 +13,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
 ### Screenshot
 
 ![](/images/Screenshot%201.jpeg)
-![](/images/Screenshot%202.jpeg)
+
 
 
 ## My process
@@ -58,7 +57,7 @@ want to make QR code work, Make it responsive, and may make it a part of website
 
 ### Useful resources
 
-- [resource 1](https://www.joshwcomeau.com/css/center-a-div/) - This is an amazing article which helped me finally understand centering methods. I'd recommend it to anyone still learning this concept.
+- [Center a div](https://www.joshwcomeau.com/css/center-a-div/) - This is an amazing article which helped me finally understand centering methods. I'd recommend it to anyone still learning this concept.
 
 
 ## Author
